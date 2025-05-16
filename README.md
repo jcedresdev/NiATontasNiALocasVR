@@ -32,8 +32,7 @@ Gracias al uso del XR Interaction Toolkit de Unity, se desarrolló una experienc
 ![Ejemplo 1](./Screenshots/example1.png)
 ![Ejemplo 2](./Screenshots/example2.png)
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+
 
 ## Créditos
 - Fundación Juan Negrín por los contenidos originales de la exposición.
